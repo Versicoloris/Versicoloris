@@ -4,7 +4,7 @@
 
 | AddOn | Description | Link |
 |------|-------------|------|
-| **LizardDMP** | Fast gear optimizer based on stat priority | [GitHub](https://github.com/YOURNAME/LizardDMP) |
-| **LizardKTS** | Shows Synastria upgrade chains to prevent vendoring | [GitHub](https://github.com/YOURNAME/LizardKTS) |
+| **LizardDMP** | Fast gear optimizer based on stat priority | [GitHub](https://github.com/Versicoloris/LizardDMP) |
+| **LizardKTS** | Shows Synastria upgrade chains to prevent vendoring | [GitHub](https://github.com/Versicoloris/LizardKTS) |
 
 ---
