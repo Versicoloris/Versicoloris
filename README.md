@@ -7,5 +7,6 @@
 | **LizardDMP** | Fast gear optimizer based on stat priority | [GitHub](https://github.com/Versicoloris/LizardDMP) |
 | **LizardKTS** | Shows Synastria upgrade chains to prevent vendoring | [GitHub](https://github.com/Versicoloris/LizardKTS) |
 | **LizardWWG** | Right-click warps to instantly open their map | [GitHub](https://github.com/Versicoloris/LizardWWG) |
+| **LizardSTB** | Save an action bar and automatically share it across all characters | [GitHub](https://github.com/Versicoloris/LizardSTB) |
 
 ---
