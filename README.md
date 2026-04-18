@@ -9,4 +9,6 @@
 | **LizardWWG** | Right-click warps to instantly open their map | [GitHub](https://github.com/Versicoloris/LizardWWG) |
 | **LizardSTB** | Save an action bar and automatically share it across all characters | [GitHub](https://github.com/Versicoloris/LizardSTB) |
 | **LizardMMU** | Pick your favorite mounts and summon one at random with a single click.| [GitHub](https://github.com/Versicoloris/LizardMMU) |
+| **LizardTMO** | Store your transmog import codes in-game and reapply them instantly-no more lost outfits after prestige. | [GitHub](https://github.com/Versicoloris/LizardTMO) |
+
 ---
